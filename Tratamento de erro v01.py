@@ -5,7 +5,7 @@ sair1 = ' '
 
 while True:
     try:
-        n = int(input('digite um numero: '))
+        n = int(input('DIGITE UM NÚMERO: '))
 
     except ValueError:
         print('Você digitou uma string, neste campo só é possivel digitar numeros!')
